@@ -1,0 +1,29 @@
+#header{
+    background-color: rgb(221, 162, 85);
+    padding-bottom: 9%;
+}
+.div_nav{
+    background-color: rgb(233, 181, 114);
+    border: 2px solid rgb(216, 145, 13);
+    padding-bottom: 1%;
+    margin-bottom: 3%;
+    text-align: center;
+    font-size: larger;
+    color: rgb(250, 246, 240);
+}
+.divs{
+    margin: auto;
+    margin-top: 6%;
+    padding-bottom: 2%;
+    background-color: rgb(248, 207, 152);
+    border: 2px solid rgb(216, 145, 13);
+    border-radius: 1ex;
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(216, 145, 13);
+}
+#footer{
+    background-color: rgb(221, 162, 85);
+    margin-top: 7%;
+    padding-bottom: 10%;
+}
